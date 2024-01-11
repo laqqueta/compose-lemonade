@@ -3,5 +3,5 @@
 Min SDK version : 24 </p>
 
 ## Preview
-<p>Device device : Pixel 2 XL<br></p>
+Device device : Pixel 2 XL
 ![Lemonade App Preview!](/image/lemonade-preview.png "Lemonade App Preview")
