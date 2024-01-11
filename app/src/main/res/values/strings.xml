@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+
+    <string-array name="lemon_content_desc">
+        <item>Lemon Tree</item>
+        <item>Lemon</item>
+        <item>Glass of Lemonade</item>
+        <item>Empty Glass</item>
+    </string-array>
+
+    <string-array name="lemonade_steps">
+        <item>Tap the lemon tree to select a lemon</item>
+        <item>Keep tapping the lemon to squeeze it</item>
+        <item>Tap the lemonade to drink it</item>
+        <item>Tap the empty glass to start again</item>
+    </string-array>
+
+</resources>
